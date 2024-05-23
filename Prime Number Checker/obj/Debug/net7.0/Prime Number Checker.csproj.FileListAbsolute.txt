@@ -1,0 +1,15 @@
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/bin/Debug/net7.0/Prime Number Checker
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/bin/Debug/net7.0/Prime Number Checker.deps.json
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/bin/Debug/net7.0/Prime Number Checker.runtimeconfig.json
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/bin/Debug/net7.0/Prime Number Checker.dll
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/bin/Debug/net7.0/Prime Number Checker.pdb
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/obj/Debug/net7.0/Prime Number Checker.csproj.AssemblyReference.cache
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/obj/Debug/net7.0/Prime Number Checker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/obj/Debug/net7.0/Prime Number Checker.AssemblyInfoInputs.cache
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/obj/Debug/net7.0/Prime Number Checker.AssemblyInfo.cs
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/obj/Debug/net7.0/Prime Number Checker.csproj.CoreCompileInputs.cache
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/obj/Debug/net7.0/Prime Number Checker.dll
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/obj/Debug/net7.0/refint/Prime Number Checker.dll
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/obj/Debug/net7.0/Prime Number Checker.pdb
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/obj/Debug/net7.0/Prime Number Checker.genruntimeconfig.cache
+/Users/sebastiansteiner/Desktop/Coding Challenges/Prime Number Checker/Prime Number Checker/obj/Debug/net7.0/ref/Prime Number Checker.dll
